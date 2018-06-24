@@ -10,6 +10,10 @@ int main()
     	s += i;
     }
     cout << s << endl;
+
     cout << 1<<endl;
+
+    cout << 5<< endl;
+
     return 0;
 }
